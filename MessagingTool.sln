@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingTool", "MessagingTool\MessagingTool.csproj", "{59E36433-85E9-4264-8912-CB550EE309F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingToolTests", "MessagingToolTests\MessagingToolTests.csproj", "{9306B64E-DD92-4FF4-BF17-1CAEE103307E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E36433-85E9-4264-8912-CB550EE309F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E36433-85E9-4264-8912-CB550EE309F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E36433-85E9-4264-8912-CB550EE309F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E36433-85E9-4264-8912-CB550EE309F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9306B64E-DD92-4FF4-BF17-1CAEE103307E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9306B64E-DD92-4FF4-BF17-1CAEE103307E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9306B64E-DD92-4FF4-BF17-1CAEE103307E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9306B64E-DD92-4FF4-BF17-1CAEE103307E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C26EBA8-2B8A-42A5-95DE-028DC5B82074}
+	EndGlobalSection
+EndGlobal
