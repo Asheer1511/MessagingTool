@@ -36,7 +36,7 @@ By having the DataAccess extracted, we can call the DataAccess inteface to use i
 
 RetrieveUsers Class: Broken down into 3 methods 
 -GetUsersAndFollowers(): Gets the users and associated followers and stores them in the TwitterUsers model.
--GetFollowersAsUsers(): Where the followers exist but not as users, they need to be added aas users. 
+-GetFollowersAsUsers(): Where the followers exist but not as users, they need to be added as users. 
 I have created these 2 seperate methods to avoid a heavy handed nested foreach statement to combine all this data.
 
 -ProcessUsersAndFollowers(): used to combine the outpt from the above 2 methods into a consolidated TwitterUsers model.
