@@ -10,6 +10,11 @@ Given the above, we can extract 3 main components to the system.
 2. Retrieve messages linked to users.
 3. Post messages linked to users and followers.
 
+# Steps to Run/Test
+1. To ensure minimum requirements met, Navigate to: \MessagingTool\MessagingTool\bin\Debug\MessagingTool.exe
+2. Open solution in visual studio to inspect source code.
+3. Open visual studio test explorer to run unit tests.
+
 # Solution
 Given the above requirements I have chosen to use a modified repository design pattern to implement the solution to meet the needs of the system.
 I have broken down the solution into 4 layers viz. DataAccessLayer, Models, Persistance, Service.
