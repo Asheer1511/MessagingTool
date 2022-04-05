@@ -50,8 +50,8 @@ This layer is responsible for Posting all the Tweet data which it retrieves from
 PostTweetsService Class:
 Just 1 void method to handle the printing of the final string, retrieves data via calling persistance interfaces.
 
-ProgramClass: all classes instanciated in the program class which is built and ran on runtime to produce desired outcome.
+ProgramClass: all classes instantiated in the program class which is built and processed on runtime to produce desired outcome.
 
 Lastly I have created unit tests to cover functionality.
-The structure and design I have opted use, allowded me to be able to mock data using NUnit substitute.
+The structure and design I have opted use, allowdd me to be able to mock data using NUnit substitute.
 
