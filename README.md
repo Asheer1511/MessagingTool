@@ -48,7 +48,7 @@ RetrieveTweets Class: Contains just 1 method
 This layer is responsible for Posting all the Tweet data which it retrieves from the Persistance layer and collates all data and builds the final string to be printed.
 
 PostTweetsService Class:
-Just 1 void method to handle the printing of the final string, retieves data via calling persistance interfaces.
+Just 1 void method to handle the printing of the final string, retrieves data via calling persistance interfaces.
 
 ProgramClass: all classes instanciated in the program class which is built and ran on runtime to produce desired outcome.
 
